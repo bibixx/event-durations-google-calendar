@@ -18,7 +18,7 @@
   "content_scripts": [
     {
       "js": [
-        "libraries/jquery-3.1.1.min.js",
+        "libraries/jquery-3.6.0.min.js",
         "libraries/lodash.core.min.js",
         "libraries/moment.js",
         "libraries/moment-duration-format.js",
